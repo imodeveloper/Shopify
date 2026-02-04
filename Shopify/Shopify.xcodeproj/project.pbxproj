@@ -731,7 +731,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		60B106F22804560D001663C9 /* XCRemoteSwiftPackageReference "dskit" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/imodeveloperlab/dskit";
+			repositoryURL = "https://github.com/imodeveloper/dskit";
 			requirement = {
 				kind = exactVersion;
 				version = 1.0.3;
